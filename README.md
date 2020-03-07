@@ -37,6 +37,6 @@ The content pertaining to Mrugesh Mohapatra such as his resume, personal informa
 [gitpod-img]: https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod
 [gitpod]: https://gitpod.io/#https://github.com/raisedadead/portfolio
 
-[personal-website]: https://raisedadead.com
+[personal-website]: https://www.raisedadead.com
 [react-website]: https://reactjs.org
 [by-nc-nd-4]: https://creativecommons.org/licenses/by-nc-nd/4.0/
